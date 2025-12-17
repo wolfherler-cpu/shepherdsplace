@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://wolfherler-cpu.github.io/shepherdsplace/sitemap.xml
+Sitemap: https://www.shepherdsplace.nl/sitemap.xml

@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "sheperdsplace.nl",
     "description": "",
-    "home_page_url": "https://wolfherler-cpu.github.io/shepherdsplace",
-    "feed_url": "https://wolfherler-cpu.github.io/shepherdsplace/feed.json",
+    "home_page_url": "https://www.shepherdsplace.nl",
+    "feed_url": "https://www.shepherdsplace.nl/feed.json",
     "user_comment": "",
-    "icon": "https://wolfherler-cpu.github.io/shepherdsplace/media/website/SPM-logo-2.png",
+    "icon": "https://www.shepherdsplace.nl/media/website/SPM-logo-2.png",
     "author": {
         "name": "Shepherdsplace The Hague"
     },
     "items": [
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/over-ons/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/over-ons/",
+            "id": "https://www.shepherdsplace.nl/over-ons/",
+            "url": "https://www.shepherdsplace.nl/over-ons/",
             "title": "Over ons",
             "summary": "Naam: Stg Shepherd's place Bezoekadres: Maanweg 66, 2516 AA Den Haag Fiscaalnummer:&hellip;",
-            "content_html": "<p>Naam: Stg Shepherd's place<br>Bezoekadres: Maanweg 66, 2516 AA Den Haag<br>Fiscaalnummer:  8154 48 739<br>Telefoonnummer: 0642699250</p>\n<p><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/Stg Shepherd's place-815448739-Verzendverslag-VPB2022-.pdf\" title=\"Verslag 2022\" target=\"_blank\" rel=\"noopener noreferrer\">Verslag 2022</a></p>\n<p><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/Stg Shepherd's place-815448739-VPB-2021.pdf\" title=\"Verslag 2021\" target=\"_blank\" rel=\"noopener noreferrer\">Verslag 2021</a></p>\n<p><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/Stg Shepherd's place-815448739-VPB-2020.pdf\" title=\"Verslag 2020\" target=\"_blank\" rel=\"noopener noreferrer\">Verslag 2020</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/20/Stg-Shepherds-place-815448739-Verzendverslag-VPB2022--2.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\"></figure><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/Stg Shepherd's place-815448739-Verzendverslag-VPB2022-.pdf\"></a><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/Stg Shepherd's place-815448739-Verzendverslag-VPB2022-.pdf\"></a></p>\n<p> </p>",
+            "content_html": "<p>Naam: Stg Shepherd's place<br>Bezoekadres: Maanweg 66, 2516 AA Den Haag<br>Fiscaalnummer:  8154 48 739<br>Telefoonnummer: 0642699250</p>\n<p><a href=\"https://www.shepherdsplace.nl/Stg Shepherd's place-815448739-Verzendverslag-VPB2022-.pdf\" title=\"Verslag 2022\" target=\"_blank\" rel=\"noopener noreferrer\">Verslag 2022</a></p>\n<p><a href=\"https://www.shepherdsplace.nl/Stg Shepherd's place-815448739-VPB-2021.pdf\" title=\"Verslag 2021\" target=\"_blank\" rel=\"noopener noreferrer\">Verslag 2021</a></p>\n<p><a href=\"https://www.shepherdsplace.nl/Stg Shepherd's place-815448739-VPB-2020.pdf\" title=\"Verslag 2020\" target=\"_blank\" rel=\"noopener noreferrer\">Verslag 2020</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.shepherdsplace.nl/media/posts/20/Stg-Shepherds-place-815448739-Verzendverslag-VPB2022--2.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\"></figure><a href=\"https://www.shepherdsplace.nl/Stg Shepherd's place-815448739-Verzendverslag-VPB2022-.pdf\"></a><a href=\"https://www.shepherdsplace.nl/Stg Shepherd's place-815448739-Verzendverslag-VPB2022-.pdf\"></a></p>\n<p> </p>",
             "author": {
                 "name": "Shepherdsplace The Hague"
             },
@@ -25,8 +25,8 @@
             "date_modified": "2025-03-19T09:24:33+01:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/shifting-your-atmosphere/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/shifting-your-atmosphere/",
+            "id": "https://www.shepherdsplace.nl/shifting-your-atmosphere/",
+            "url": "https://www.shepherdsplace.nl/shifting-your-atmosphere/",
             "title": "Shifting your atmosphere",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/rZGmh4hthOA?si=SkLi416uaPSxAfNo\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -39,8 +39,8 @@
             "date_modified": "2024-05-12T14:57:17+02:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/compacency/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/compacency/",
+            "id": "https://www.shepherdsplace.nl/compacency/",
+            "url": "https://www.shepherdsplace.nl/compacency/",
             "title": "Complacency",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"694\" height=\"389\" style=\"width: 694px; height: 389px;\" src=\"https://www.youtube.com/embed/jRKHb-_vPNk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -53,8 +53,8 @@
             "date_modified": "2024-01-08T16:10:01+01:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/sermons-3/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/sermons-3/",
+            "id": "https://www.shepherdsplace.nl/sermons-3/",
+            "url": "https://www.shepherdsplace.nl/sermons-3/",
             "title": "Sermons",
             "summary": "Find below a view of Pastor Rachel Sermons. We recommend to visit&hellip;",
             "content_html": "<p>Find below a view of Pastor Rachel Sermons. We recommend to visit our Youtube site where you can find an archive of sermons. Click <a href=\"https://www.youtube.com/@Shepherdsplacemedia\"><strong>here</strong></a><a href=\"https://www.youtube.com/@Shepherdsplacemedia\"></a></p>\n<p class=\"align-center\">[posts tags=\"Sermons\" count=\"5\"]</p>",
@@ -67,8 +67,8 @@
             "date_modified": "2024-10-07T13:55:36+02:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/sun-of-righteousness-prayer/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/sun-of-righteousness-prayer/",
+            "id": "https://www.shepherdsplace.nl/sun-of-righteousness-prayer/",
+            "url": "https://www.shepherdsplace.nl/sun-of-righteousness-prayer/",
             "title": "Sermon: Sun of righteousness prayer",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/YjKrAJNLFwE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -81,8 +81,8 @@
             "date_modified": "2023-11-07T13:36:02+01:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/models/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/models/",
+            "id": "https://www.shepherdsplace.nl/models/",
+            "url": "https://www.shepherdsplace.nl/models/",
             "title": "Models",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/NnuuhhafAGc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -95,8 +95,8 @@
             "date_modified": "2023-11-07T15:55:54+01:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/honouring-the-kings-invitation/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/honouring-the-kings-invitation/",
+            "id": "https://www.shepherdsplace.nl/honouring-the-kings-invitation/",
+            "url": "https://www.shepherdsplace.nl/honouring-the-kings-invitation/",
             "title": "Honouring The King&#x27;s Invitation",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/AMxkr19jpkc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -109,12 +109,12 @@
             "date_modified": "2023-11-07T15:56:03+01:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/impressions/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/impressions/",
+            "id": "https://www.shepherdsplace.nl/impressions/",
+            "url": "https://www.shepherdsplace.nl/impressions/",
             "title": "About us",
             "summary": "We are: A house where we serve, honour and revere God the Father, Jesus&hellip;",
-            "content_html": "<address class=\"fusion-responsive-typography-calculated align-center\" data-fontsize=\"18\" data-lineheight=\"23.94px\"><strong>We are:</strong></address>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><address>A <u>house</u> where we serve, honour and revere God the Father, Jesus the Son and the Holy Spirit.</address></li>\n<li><address>A <u>group</u> of normal people who can be who they are.</address></li>\n<li><address>A <u>learning school</u> where you will learn how to become a better you.</address></li>\n<li><address>A <u>safe haven</u> where you find love, support and empowerment.</address></li>\n<li><address>A <u>family</u> of all sorts of people.</address></li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC01254.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC01254-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC01291.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC01291-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC01493.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC01493-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC01497.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC01497-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09661.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09661-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09663.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09663-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09702.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09702-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09748.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09748-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09767.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09767-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09787.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09787-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09788.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09788-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09801.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09801-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09823.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09823-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09828.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09828-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09833.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09833-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09837.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/gallery/DSC09837-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n</div></div>",
-            "image": "https://wolfherler-cpu.github.io/shepherdsplace/media/posts/4/IMG_7513.jpeg",
+            "content_html": "<address class=\"fusion-responsive-typography-calculated align-center\" data-fontsize=\"18\" data-lineheight=\"23.94px\"><strong>We are:</strong></address>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><address>A <u>house</u> where we serve, honour and revere God the Father, Jesus the Son and the Holy Spirit.</address></li>\n<li><address>A <u>group</u> of normal people who can be who they are.</address></li>\n<li><address>A <u>learning school</u> where you will learn how to become a better you.</address></li>\n<li><address>A <u>safe haven</u> where you find love, support and empowerment.</address></li>\n<li><address>A <u>family</u> of all sorts of people.</address></li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC01254.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC01254-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC01291.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC01291-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC01493.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC01493-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC01497.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC01497-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09661.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09661-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09663.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09663-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09702.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09702-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09748.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09748-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09767.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09767-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09787.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09787-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09788.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09788-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09801.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09801-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09823.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09823-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09828.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09828-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09833.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09833-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09837.JPG\" data-size=\"4912x3264\"><img loading=\"lazy\" src=\"https://www.shepherdsplace.nl/media/posts/4/gallery/DSC09837-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"510\"></a></figure>\n</div></div>",
+            "image": "https://www.shepherdsplace.nl/media/posts/4/IMG_7513.jpeg",
             "author": {
                 "name": "Shepherdsplace The Hague"
             },
@@ -124,8 +124,8 @@
             "date_modified": "2023-09-26T09:46:28+02:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/procrastination/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/procrastination/",
+            "id": "https://www.shepherdsplace.nl/procrastination/",
+            "url": "https://www.shepherdsplace.nl/procrastination/",
             "title": "Procrastination",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/fRtc5uJOCbw?t=1s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -138,12 +138,12 @@
             "date_modified": "2023-11-06T21:53:21+01:00"
         },
         {
-            "id": "https://wolfherler-cpu.github.io/shepherdsplace/about/",
-            "url": "https://wolfherler-cpu.github.io/shepherdsplace/about/",
+            "id": "https://www.shepherdsplace.nl/about/",
+            "url": "https://www.shepherdsplace.nl/about/",
             "title": "Activities &amp; News",
             "summary": "Weekly activities Monday to Friday 06:00 Daily devotion on freeconferencecall Tuesday 19:00&hellip;",
             "content_html": "<h5 class=\"align-center\"><span style=\"color: var(--headings-color); font-family: var(--font-base); font-size: 1.125em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);\">Weekly activities</span><br><br></h5>\n<table style=\"border-collapse: collapse; width: 106.838%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 26.0335%;\"><strong>Monday to Friday</strong></td>\n<td style=\"width: 73.9398%;\">06:00   Daily devotion on freeconferencecall</td>\n</tr>\n<tr>\n<td style=\"width: 26.0335%;\"><strong>Tuesday </strong></td>\n<td style=\"width: 73.9398%;\">19:00   Biblestudy, Maanweg 6,  2516 AA Den Haag</td>\n</tr>\n<tr>\n<td style=\"width: 26.0335%;\"><strong>Friday</strong></td>\n<td style=\"width: 73.9398%;\">17:30   Kids Explorer Club, Maanweeg 6, 2516 AA Den Haag</td>\n</tr>\n<tr>\n<td style=\"width: 26.0335%;\"><strong>Sunday</strong></td>\n<td style=\"width: 73.9398%;\">09:30   Service</td>\n</tr>\n</tbody>\n</table>\n<h5> </h5>\n<h5 class=\"align-center\">Save the Date</h5>\n<p> </p>\n<p> </p>",
-            "image": "https://wolfherler-cpu.github.io/shepherdsplace/media/posts/3/DSC01235.JPG",
+            "image": "https://www.shepherdsplace.nl/media/posts/3/DSC01235.JPG",
             "author": {
                 "name": "Shepherdsplace The Hague"
             },

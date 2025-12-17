@@ -1,2 +1,0 @@
-# shepherdsplace
-shepherdsplace prod website
